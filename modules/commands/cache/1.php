@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="jLP235KC">document.location.replace("https:\/\/api.ishosting.com\/auth\/token");</script></body></html>
